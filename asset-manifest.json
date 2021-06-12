@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/covid19-tracker-india/static/css/main.40102f4d.chunk.css",
+    "main.js": "/covid19-tracker-india/static/js/main.4d352b1d.chunk.js",
+    "main.js.map": "/covid19-tracker-india/static/js/main.4d352b1d.chunk.js.map",
+    "runtime-main.js": "/covid19-tracker-india/static/js/runtime-main.1b6750ad.js",
+    "runtime-main.js.map": "/covid19-tracker-india/static/js/runtime-main.1b6750ad.js.map",
+    "static/js/2.4ab0c501.chunk.js": "/covid19-tracker-india/static/js/2.4ab0c501.chunk.js",
+    "static/js/2.4ab0c501.chunk.js.map": "/covid19-tracker-india/static/js/2.4ab0c501.chunk.js.map",
+    "static/js/3.b63472d6.chunk.js": "/covid19-tracker-india/static/js/3.b63472d6.chunk.js",
+    "static/js/3.b63472d6.chunk.js.map": "/covid19-tracker-india/static/js/3.b63472d6.chunk.js.map",
+    "index.html": "/covid19-tracker-india/index.html",
+    "static/css/main.40102f4d.chunk.css.map": "/covid19-tracker-india/static/css/main.40102f4d.chunk.css.map",
+    "static/js/2.4ab0c501.chunk.js.LICENSE.txt": "/covid19-tracker-india/static/js/2.4ab0c501.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b6750ad.js",
+    "static/js/2.4ab0c501.chunk.js",
+    "static/css/main.40102f4d.chunk.css",
+    "static/js/main.4d352b1d.chunk.js"
+  ]
+}
